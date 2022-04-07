@@ -16,6 +16,6 @@ if (sumaEdades > 100) {
     console.log("Somos viejos!", sumaEdades);
 }
 else {
-    console.log("Aún tenemos esperanza!");
+    console.log("Aún tenemos gripe!");
 }
 
