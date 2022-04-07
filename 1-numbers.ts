@@ -2,6 +2,9 @@ let denisse: number = 31;
 let jaume: number = 10;
 let alina: number = 41;
 let nereo: number = 35;
+let lucia: number = 9;
+let noe: number = 40;
+
 
 let sumaEdades: number = denisse + jaume + alina + nereo;
 
@@ -18,4 +21,5 @@ if (sumaEdades > 100) {
 else {
     console.log("Aún tenemos gripe!");
 }
-
+ let vidas : number = noe / lucia ; 
+ console.log("Vidas de Lucia en Noe ",vidas);
