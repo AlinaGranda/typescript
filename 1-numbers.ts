@@ -2,7 +2,7 @@ let denisse: number = 31;
 let jaume: number = 10;
 let alina: number = 41;
 let nereo: number = 35;
-let lucia: number = 9;
+let lucia: number = 10;
 let noe: number = 40;
 
 
