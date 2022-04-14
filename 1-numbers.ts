@@ -42,16 +42,18 @@ else {
 
 let mensaje: string = "Banco Amigo";
 console.log(mensaje);
+
 let mensaje1: string = "Que operación desea realizar";
 console.log(mensaje1);
+
 let mensaje2: string = "Esta operación no se puede realizar";
 let mensaje3: string = "Indique la cantidad a retirar";
 
 let mensaje4: string = "Saldo insuficiente";
 
-let saldo : numbrer = 5;
+let saldo: number = 5;
 
-if (saldo < 10){
+if (saldo <== 10){
 console.log(mensaje2);
 
 }else{console.log(mensaje3)
