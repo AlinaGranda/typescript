@@ -29,4 +29,17 @@ if (vidasnoemienjuana > vidas) {
 else {
     console.log("Vidas de Lucia en Noe son mayores que las vidas de Noemi en Juana ");
 }
-8;
+var mensaje = "Banco Amigo";
+console.log(mensaje);
+var mensaje1 = "Que operación desea realizar";
+console.log(mensaje1);
+var mensaje2 = "Esta operación no se puede realizar";
+var mensaje3 = "Indique la cantidad a retirar";
+var mensaje4 = "Saldo insuficiente";
+var saldo = 5;
+if (saldo < 10) {
+    console.log(mensaje2);
+}
+else {
+    console.log(mensaje3);
+}
