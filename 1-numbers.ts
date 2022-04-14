@@ -26,7 +26,10 @@ else {
  console.log("Vidas de Lucia en Noe ",vidas);
 
  let vidasnoemienjuana : number = juana / noemi ;
- console.log("vidas de noemi en juana",vidasnoemienjuana) 
+ console.log("vidas de noemi en juana",vidasnoemienjuana)
+ 
+ 
+ 
 
  if (vidasnoemienjuana > vidas){
      console.log("Vidas de Noemi en Juana son mayores que Lucia en Noe");
@@ -37,31 +40,26 @@ else {
 
 
 
+let mensaje: string = "Banco Amigo";
+console.log(mensaje);
+let mensaje1: string = "Que operación desea realizar";
+console.log(mensaje1);
+let mensaje2: string = "Esta operación no se puede realizar";
+let mensaje3: string = "Indique la cantidad a retirar";
+
+let mensaje4: string = "Saldo insuficiente";
+
+let saldo : numbrer = 5;
+
+if (saldo < 10){
+console.log(mensaje2);
+
+}else{console.log(mensaje3)
+
+}
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 8
 
 
